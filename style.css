@@ -1,7 +1,13 @@
 body {
+  body {
   margin: 0;
   font-family: Georgia, serif;
-  background: #111;
+
+  background-image: url("map-background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
   color: #eee;
   line-height: 1.6;
 }
