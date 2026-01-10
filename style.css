@@ -13,12 +13,14 @@ body {
 }
 
 header {
+  color: #c9a86a;
   padding: 3rem 1.5rem;
   text-align: center;
   border-bottom: 1px solid #ffbf00;
 }
 
 h1 {
+  color: #c9a86a;
   margin: 0;
   font-size: 2.5rem;
 }
@@ -35,6 +37,7 @@ main {
 }
 
 h2 {
+  color: #c9a86a;
   border-bottom: 1px solid #ffbf00;
   padding-bottom: 0.25rem;
 }
