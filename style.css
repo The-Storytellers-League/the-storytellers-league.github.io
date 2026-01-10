@@ -15,7 +15,7 @@ body {
 header {
   padding: 3rem 1.5rem;
   text-align: center;
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #ffbf00;
 }
 
 h1 {
@@ -35,7 +35,7 @@ main {
 }
 
 h2 {
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #ffbf00;
   padding-bottom: 0.25rem;
 }
 
@@ -45,7 +45,6 @@ a {
 }
 
 a:hover {
-  color: #b913bc;
   text-decoration: underline;
 }
 
@@ -65,5 +64,12 @@ footer {
 
   border-radius: 12px;
   line-height: 1.6;
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background-color: #ffbf00;
+  margin: 3rem 0;
 }
 
